@@ -1,0 +1,3 @@
+The LD pin 1 and 3 are swapped around :( Need to mount the LD upside down now! Shit!
+
+Silkscreen errors.
